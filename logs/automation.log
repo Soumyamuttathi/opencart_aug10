@@ -1,0 +1,4 @@
+19:18:51.160 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest *****
+19:18:56.336 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+19:19:03.451 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+19:19:05.783 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
